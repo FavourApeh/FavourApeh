@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning cloud computing with AWS services
 - 👯 I’m looking to collaborate with data scientist and other data engineers
 - 🤔 I’m looking for intership opportunities
-- 💬 Ask me about Apache Spark, Python and SQl
+- 💬 Ask me about Apache Spark, Python and SQL
 - 😄 Pronouns: she/her
 
 <!--
